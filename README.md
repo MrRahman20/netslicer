@@ -24,39 +24,8 @@ Sebelum menginstall NetSlicer, pastikan Anda telah menginstall:
    - Python 3.8 atau lebih tinggi
    - Sistem operasi yang didukung:
      - Windows
-     - Linux
-     - macOS
 
-## Instalasi
-
-1. Install prerequisites di atas
-2. Install NetSlicer:
-```bash
-pip install netslicer
-```
-
-## Usage
-
-```bash
-netslicer
-```
-
-## Pengembangan
-
-1. Clone repositori:
-```bash
-git clone https://github.com/MrRahman20/netslicer.git
-cd netslicer
-```
-
-2. Buat virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-```
-
-3. Install dependencies:
+Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -72,15 +41,6 @@ Jika mengalami masalah:
 2. **"VCRUNTIME140.dll is missing"**
    - Install Visual C++ Redistributable
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to NetSlicer, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Create a pull request describing your changes.
 
 ## Lisensi
 
