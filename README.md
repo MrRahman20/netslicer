@@ -15,11 +15,12 @@ Sebelum menginstall NetSlicer, pastikan Anda telah menginstall:
    - Install dengan opsi default
    - Restart komputer setelah instalasi
 
-2. **Visual C++ Redistributable**   - Download [VC_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+2. **Visual C++ Redistributable**
+   - Download [VC_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
    - Install dengan opsi default
    - Tidak perlu restart
 
-3. **Python Requirements**
+4. **Python Requirements**
    - Python 3.8 atau lebih tinggi
    - Sistem operasi yang didukung:
      - Windows
