@@ -24,8 +24,7 @@ Sebelum menginstall NetSlicer, pastikan Anda telah menginstall:
    - Python 3.8 atau lebih tinggi
    - Sistem operasi yang didukung:
      - Windows
-     - Linux
-     - macOS
+
 
 ## Instalasi
 
@@ -83,3 +82,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Author
 
 - Muhammad Ruhiyatna Rahman
+- Instagram: [@rahman.zip](https://www.instagram.com/rahman.zip)
